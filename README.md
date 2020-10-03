@@ -49,4 +49,4 @@
 
 ### Stats ⚡️
 
-![Github Stats](https://readmestats.vercel.app/api?username=prabha-coder&show_icons=true&title_color=333&icon_color=333&count_private=true&include_all_commits=true)
+![Prabha's github stats](https://github-readme-stats.vercel.app/api?username=prabha-coder&show_icons=true&theme=radical)
