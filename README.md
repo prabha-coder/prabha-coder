@@ -51,3 +51,6 @@
 ### Stats ⚡️
 
 ![Prabha's github stats](https://github-readme-stats.vercel.app/api?username=prabha-coder&show_icons=true&theme=radical)
+
+
+<a href="https://www.buymeacoffee.com/prabakar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
