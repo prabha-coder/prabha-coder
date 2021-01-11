@@ -24,7 +24,7 @@
 - 💬 Ask me about anything.
 - 📫 How to reach me: prabhacoder@gmail.com
 - Published Projects by Me are below
-- [Telegram Index](https://telegram-index-1.superman11.repl.co)
+- [Telegram Index](https://telprabha.tk)
 - [Tamilmv Proxy](https://trprabha.tk)
 - [QR Code Generator](https://qrprabha.tk) 
 - [Cloud Index](https://prabha.tk)
