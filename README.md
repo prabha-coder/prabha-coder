@@ -1,18 +1,6 @@
 ### Hi there 👋
 
 ### Available 👇
-<p>
-  <a href="https://www.linkedin.com/in/prabhacoder/">
-    <img align="left" alt="Prabha LinkedIN" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
-  <a href="https://www.facebook.com/prabha.coder/">
-    <img align="left" alt="Prabha Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/facebook.svg" />
-  </a>
-  <a href="https://telegram.dog/prabhacoder">
-    <img align="left" alt="Prabha Telegram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg" />
-  </a>
-  
-</p>
 </br>
 </br>
 
