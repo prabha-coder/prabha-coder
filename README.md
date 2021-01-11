@@ -19,8 +19,6 @@
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/prabha-coder/&title=Profile%20Views)
 
 - 🔭 I’m Full Stack Developer.
-- 🌱 Currently working on Venz Technologies Private Limited, Bangalore
-- 🤔 You can contact me on Telegram as [prabhacoder](https://t.telegram.ind.in/prabhacoder)
 - 💬 Ask me about anything.
 - 📫 How to reach me: prabhacoder@gmail.com
 - Published Projects by Me are below
@@ -29,8 +27,6 @@
 - [QR Code Generator](https://qrprabha.tk) 
 - [Cloud Index](https://prabha.tk)
 - [Telegram Torrent Downloader Bot](https://t.me/TorrentDownloderBot)
-- [JioSaavn Downloader](https://jioprabha.tk)
-- [Prabha Caller Bot](https://t.me/prabhacallerbot)
 
 ### Skills 👨‍💻
 
