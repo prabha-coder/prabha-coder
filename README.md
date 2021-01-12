@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-### Available 👇
 </br>
 Thank you for your interest in my profile
 </br>
