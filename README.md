@@ -11,7 +11,7 @@ Thank you for your interest in my profile
 - 💬 Ask me about anything.
 - 📫 How to reach me: prabhacoder@gmail.com
 - Published Projects by Me are below
-- [Telegram Index](https://telprabha.tk)
+- [Telegram Index](https://tg.prabha.tk)
 - [Tamilmv Proxy](https://trprabha.tk)
 - [Cloud Index](https://prabha.tk)
 - [Telegram Torrent Downloader Bot](https://t.me/TorrentDownloderBot)
