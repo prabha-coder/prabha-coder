@@ -45,5 +45,5 @@ Thank you for your interest in my profile
 
 ### Stats ⚡️
 
-![Prabha's github stats](https://github-readme-stats.vercel.app/api?username=prabha-coder&show_icons=true&theme=radical)
+![Prabha's github stats](https://github-stats-alpha.vercel.app/api/?username=prabha-coder)
 
